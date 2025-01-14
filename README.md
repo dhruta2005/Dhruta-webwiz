@@ -44,4 +44,58 @@
   </section>
 
 </body>
-</html>
+</html> <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 25px;
+      background-color: #f0f0f0;
+    }
+
+   header {
+      text-align: center;
+      padding: 25px;
+      background-color: #333;
+      color: #fff;
+    }
+
+   h1 {
+      margin: 0;
+    }
+
+  section {
+      margin: 25px 0;
+    }
+
+  .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 25px;
+      background-color: #fff;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+   table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+   th, td {
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: left;
+    }
+
+  th {
+      background-color: #f2f2f2;
+    }
+
+  .price {
+      color: #009688;
+    }
+
+  .price-down {
+      color: #f44336;
+    }
+  </style>  
